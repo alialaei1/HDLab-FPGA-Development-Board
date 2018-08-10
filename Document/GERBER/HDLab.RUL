@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Users\Ali\Desktop\Projects\HDLab – FPGA Development Board\PCB\PCB\PCB-src\HDLab.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

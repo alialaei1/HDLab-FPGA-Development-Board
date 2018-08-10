@@ -1,0 +1,29 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: HDLab.PcbDoc   8/9/2018  11:45:04 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : HDLab-Plated.TXT
+ASCII Non-Plated RoundHoles File : HDLab-NonPlated.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3mm (11.811mil)        Round          286              1297.13 mm (51.07 Inch)
+T2        0.635mm (25mil)          Round          2                4.88 mm (0.19 Inch)
+T3        0.7mm (27.559mil)        Round          144              1110.31 mm (43.71 Inch)
+T4        0.9mm (35.433mil)        Round          66               397.78 mm (15.66 Inch)
+T5        1mm (39.37mil)           Round          7                24.09 mm (0.95 Inch)
+T6        1.016mm (40mil)          Round          5                93.76 mm (3.69 Inch)
+T7        1.1mm (43.307mil)        Round          3                5.08 mm (0.20 Inch)
+T8        1.19mm (46.85mil)        Round          15               33.05 mm (1.30 Inch)
+T9        1.27mm (50mil)           Round          16               100.33 mm (3.95 Inch)
+T10       1.5mm (59.055mil)        Round          7                102.51 mm (4.04 Inch)
+T11       2.3mm (90.551mil)        Round          2                12.04 mm (0.47 Inch)
+T12       2.5mm (98.425mil)        Round          1                0.00 mm (0.00 Inch)
+T13       3.15mm (124.016mil)      Round          3                282.81 mm (11.13 Inch)
+T14       3.18mm (125.197mil)      Round          2                26.00 mm (1.02 Inch)
+T15       2.2mm (86.614mil)        Round          3         NPTH   13.59 mm (0.54 Inch)
+---------------------------------------------------------------------------
+Totals                                            562              3503.37 mm (137.93 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

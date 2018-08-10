@@ -1,0 +1,149 @@
+# UCF file for the HDLab Board 
+
+# Clock and Reset pins
+NET CLOCK          LOC = p56;   # 50MHz on-board clock
+NET RESET          LOC = p21;   # active-low
+
+# USB<->UART Pins
+NET UART_TX        LOC = p14;  
+NET UART_RX        LOC = p12;
+
+# LEDS
+NET LED_1      	   LOC = p94;
+NET LED_2	       LOC = p95;
+NET LED_3	       LOC = p97;
+NET LED_4	       LOC = p98;
+
+# Buttons 
+NET But_1	       LOC = p15;
+NET But_2	       LOC = p16;
+NET But_3	       LOC = p17;
+NET But_4	       LOC = p21;
+
+# 7Segment 
+NET SEG_CA	       LOC = p80;
+NET SEG_CB	       LOC = p79;
+NET SEG_CC	       LOC = p83;
+NET SEG_CD	       LOC = p82;
+NET SEG_CE	       LOC = p81;
+NET SEG_CF	       LOC = p78;
+NET SEG_CG	       LOC = p84;
+NET SEG_CP	       LOC = p85;
+NET SEG_AN0	       LOC = p66;
+NET SEG_AN1	       LOC = p74;
+NET SEG_AN2	       LOC = p67;
+NET SEG_AN3	       LOC = p75;
+
+# ADC 
+NET ADC_CS	       LOC = p61;
+NET ADC_CLK	       LOC = p55;
+NET ADC_DOUT       LOC = p59;
+
+# BUZZER 
+NET BUZZER	       LOC = p11;
+
+# IMU 
+NET IMU_SCL	       LOC = p114;
+NET IMU_SDA	       LOC = p112;
+NET IMU_CLKOUT     LOC = p115;
+NET IMU_INT        LOC = p116;
+NET IMU_AD0        LOC = p117;
+
+# IR 
+NET IR	           LOC = p62;
+
+# PS2 
+NET PS2_CLK	       LOC = p24;
+NET PS2_DAT	       LOC = p23;
+
+# PS2 
+NET PS2_CLK	       LOC = p24;
+NET PS2_DAT	       LOC = p23;
+
+# VGA 
+NET V_SYNC         LOC = p27;
+NET H_SYNC         LOC = p26;
+NET VGA_R<0>       LOC = p46;
+NET VGA_R<1>       LOC = p47;
+NET VGA_R<2>       LOC = p48;
+NET VGA_R<3>       LOC = p50;
+NET VGA_R<4>       LOC = p51;
+NET VGA_G<0>       LOC = p35;
+NET VGA_G<1>       LOC = p40;
+NET VGA_G<2>       LOC = p41;
+NET VGA_G<3>       LOC = p43;
+NET VGA_G<4>       LOC = p44;
+NET VGA_G<5>       LOC = p45;
+NET VGA_B<0>       LOC = p29;
+NET VGA_B<1>       LOC = p30;
+NET VGA_B<2>       LOC = p32;
+NET VGA_B<3>       LOC = p33;
+NET VGA_B<4>       LOC = p34;
+
+# SRAM Pins             
+NET SRAM_WE_N      LOC = p1;
+NET SRAM_OE_N      LOC = p123;
+NET SRAM_CE_N      LOC = p8;
+NET SRAM_DATA<0>   LOC = p7;
+NET SRAM_DATA<1>   LOC = p6;
+NET SRAM_DATA<2>   LOC = p5;
+NET SRAM_DATA<3>   LOC = p2;
+NET SRAM_DATA<4>   LOC = p131;
+NET SRAM_DATA<5>   LOC = p127;
+NET SRAM_DATA<6>   LOC = p126;
+NET SRAM_DATA<7>   LOC = p124;
+NET SRAM_ADDR<0>   LOC = p102;
+NET SRAM_ADDR<1>   LOC = p104;
+NET SRAM_ADDR<2>   LOC = p105;
+NET SRAM_ADDR<3>   LOC = p10;
+NET SRAM_ADDR<4>   LOC = p9;
+NET SRAM_ADDR<5>   LOC = p143;
+NET SRAM_ADDR<6>   LOC = p142;
+NET SRAM_ADDR<7>   LOC = p141;
+NET SRAM_ADDR<8>   LOC = p140;
+NET SRAM_ADDR<9>   LOC = p139;
+NET SRAM_ADDR<10>  LOC = p138;
+NET SRAM_ADDR<11>  LOC = p137;
+NET SRAM_ADDR<12>  LOC = p134;
+NET SRAM_ADDR<13>  LOC = p133;
+NET SRAM_ADDR<14>  LOC = p132;
+NET SRAM_ADDR<15>  LOC = p121;
+NET SRAM_ADDR<16>  LOC = p120;
+NET SRAM_ADDR<17>  LOC = p119;
+NET SRAM_ADDR<18>  LOC = p118;
+
+# GPIO pins
+NET GPIO_A01       LOC = P58;
+NET GPIO_A02       LOC = P57;
+NET GPIO_A03       LOC = P51;
+NET GPIO_A04       LOC = P50;
+NET GPIO_A05       LOC = P48;
+NET GPIO_A06       LOC = P47;
+NET GPIO_A07       LOC = P46;
+NET GPIO_A08       LOC = P45;
+NET GPIO_A09       LOC = P44;
+NET GPIO_A10       LOC = P43;
+NET GPIO_A11       LOC = P41;
+NET GPIO_A12       LOC = P40;
+NET GPIO_A13       LOC = P35;
+NET GPIO_A14       LOC = P34;
+NET GPIO_A15       LOC = P30;
+NET GPIO_A16       LOC = P33;
+
+# GPIO pins and Camera Interface 
+NET GPIO_B01       LOC = P67;
+NET GPIO_B02       LOC = P66;
+NET GPIO_B03       LOC = P111;
+NET GPIO_B04       LOC = P85;
+NET GPIO_B05       LOC = P84;
+NET GPIO_B06       LOC = P83;
+NET GPIO_B07       LOC = P82;
+NET GPIO_B08       LOC = P81;
+NET GPIO_B09       LOC = P80;
+NET GPIO_B10       LOC = P79;
+NET GPIO_B11       LOC = P78;
+NET GPIO_B12       LOC = P75;
+NET GPIO_B13       LOC = P74;
+NET GPIO_B14       LOC = P99;
+NET GPIO_B15       LOC = P100;
+NET GPIO_B16       LOC = P101;

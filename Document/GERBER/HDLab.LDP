@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Ali\Desktop\Projects\HDLab – FPGA Development Board\PCB\PCB\PCB-src\HDLab.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=hdlab-plated.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=hdlab-nonplated.txt|LayerPairs=gtl,gbl
