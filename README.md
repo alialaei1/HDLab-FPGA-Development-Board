@@ -1,8 +1,8 @@
 # HDLab – FPGA Development Board
 HDLab is a FPGA development board with a lot of features that specially designed for experimenting and learning digital system design with FPGAs.
-![]( http://uupload.ir/files/hjk7_view_f.jpg)
+![](https://raw.githubusercontent.com/alialaei110/HDLab-FPGA-Development-Board/master/Document/PICTURES/View_F.jpg)
 This project is open source and Sample code for each part Is being completed.
-![]( http://uupload.ir/files/vm9l_block-diagram.jpg)
+![](https://raw.githubusercontent.com/alialaei110/HDLab-FPGA-Development-Board/master/Document/PICTURES/Block-diagram.jpg)
 ## Features
 
 - FPGA:
