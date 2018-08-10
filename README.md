@@ -58,6 +58,9 @@ This project is open source and Sample code for each part Is being completed.
   2.	Xilinx ISE Software ([Download](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/design-tools.html))
   3.	USB JTAG Programmer for Xilinx FPGA 
 
+## License
+The HDLab project is an open source project licensed under MIT License. Please see the included LICENSE file for details.
+
 ## More Information:
 
 ### What is FPGA?
