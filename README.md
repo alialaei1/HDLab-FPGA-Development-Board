@@ -5,7 +5,6 @@ Featuring a powerful FPGA chip, HDLab provides ample resources for implementing 
 
 HDLab comes with comprehensive documentation, tutorials, and example projects to help you get started quickly and easily. Whether you are a student, hobbyist, or professional, HDLab is a versatile and powerful tool for learning and experimentation in digital system design.
 ![](https://raw.githubusercontent.com/alialaei110/HDLab-FPGA-Development-Board/master/Document/PICTURES/View_F.jpg)
-This project is open source and Sample code for each part Is being completed.
 ![](https://raw.githubusercontent.com/alialaei110/HDLab-FPGA-Development-Board/master/Document/PICTURES/Block-diagram.jpg)
 ## Features
 
