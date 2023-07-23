@@ -66,7 +66,7 @@ HDLab comes with comprehensive documentation, tutorials, and example projects to
 ## License
 The HDLab project is an open source project licensed under MIT License. Please see the included LICENSE file for details.
 
-Free hardware and Software!
+Free Hardware and Software!
 
 ## More Information:
 
