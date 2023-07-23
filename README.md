@@ -4,8 +4,8 @@ HDLab is an FPGA development board that provides a rich set of features and capa
 Featuring a powerful FPGA chip, HDLab provides ample resources for implementing complex digital circuits and systems. The board also includes a range of peripherals and interfaces, including LEDs, switches, buttons, UART, VGA, and camera, to enable a broad range of experiments and projects.
 
 HDLab comes with comprehensive documentation, tutorials, and example projects to help you get started quickly and easily. Whether you are a student, hobbyist, or professional, HDLab is a versatile and powerful tool for learning and experimentation in digital system design.
-<br\>
-<br\>
+<br/>
+<br/>
 ![](https://raw.githubusercontent.com/alialaei110/HDLab-FPGA-Development-Board/master/Document/PICTURES/View_F.jpg)
 ![](https://raw.githubusercontent.com/alialaei110/HDLab-FPGA-Development-Board/master/Document/PICTURES/Block-diagram.jpg)
 ## Features
