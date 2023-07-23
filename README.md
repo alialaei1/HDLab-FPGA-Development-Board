@@ -65,6 +65,7 @@ HDLab comes with comprehensive documentation, tutorials, and example projects to
 
 ## License
 [MIT License](LICENSE)
+
 Free Hardware and Software!
 
 ## More Information:
