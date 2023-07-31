@@ -9,8 +9,7 @@ HDLab comes with comprehensive documentation, tutorials, and example projects to
 <br/>
 <br/>
 
-<div align="center"><a href="#"><img src="master/Document/PICTURES/View_F.jpg"  width="1600"></a><br></div>
-<div align="center"><a href="#"><img src="master/Document/PICTURES/Block-diagram.jpg"  width="1600"></a><br></div>
+
 
 ![](https://raw.githubusercontent.com/alialaei110/HDLab-FPGA-Development-Board/master/Document/PICTURES/View_F.jpg)
 ![](https://raw.githubusercontent.com/alialaei110/HDLab-FPGA-Development-Board/master/Document/PICTURES/Block-diagram.jpg)
